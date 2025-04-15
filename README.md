@@ -14,6 +14,13 @@ A utility to generate RSA key pairs with timestamp-based naming.
 go install github.com/Gambitier/mordor/cmd/RSAKeyGenerator@latest
 ```
 
+#### Uninstallation
+
+```bash
+# Remove the binary from your GOPATH/bin
+rm $(go env GOPATH)/bin/RSAKeyGenerator
+```
+
 #### Usage
 
 ```bash
