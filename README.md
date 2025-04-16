@@ -46,5 +46,5 @@ The RSA key generator will:
 ```
 cmd/
   ├── RSAKeyGenerator/    # RSA key pair generation utility
-  └── ... (more tools to come)
+  └── ... (other tools)
 ```
